@@ -18,6 +18,8 @@ public class Scraggle {
     /**
      * @param args the command line arguments
      */
+
+    
     public static void main(String[] args) {
         // TODO code application logic here
         Dictionary dictionary = new Dictionary();
